@@ -4,6 +4,7 @@
 In telecom industry, acquiring a new customer is 5-10 times more expensive than retaining an existing customers. In South Asian markets, the companies have a huge customer base who are on prepaid network and hence can move to another network without any prior notice/intimation. Therefore it is of great importance to telecom companies to identify the customers who are at high risk of leaving the network(i.e. getting CHURNED) so that the company can act(with promotional packages/discounts) before the customer actually leave them.
 
 <h2>Objective:<h2>
+  
 The main purpose of this case study is to analyse at 3 months data(usage of various service of company like local, std, isd incoming outgoing calls, 2g and 3g network etc) and predict if the user shows at change in pattern indicating risk of him being churned.
   
 The other objective of the case study is to identify the features in data which have the major impact on the customer's churn probability. That will help the company to use their resource accordingly, in overall improvement in infra, to offer discounted services to high risk customers etc.
